@@ -90,7 +90,7 @@ Ce dépôt regroupe mes expériences, mes rapports de CTF, mes projets et mes re
 
 ## 🖼️ Images
 
-![Banner](./assets/banner.png)  
+![Banner]([./assets/banner.png](https://drive.google.com/file/d/1AKPK7NK_Ae0d71jhlGRzaQ6SCOY7M4Po/view?usp=sharing))  
 *(Exemple de bannière cyberpunk/hacking pour l’esthétique du portfolio)*
 
 ---
